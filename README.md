@@ -21,12 +21,13 @@ Atualmente estudo na Digital College, em Fortaleza/CE, e em breve estarei conclu
 
 ![Htorquilho's GitHub stats](https://github-readme-stats.vercel.app/api?username=htorquilho&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=htorquilho&repo=github-readme-stats)](https://github.com/htorquilho/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htorquilho&layout=compact)](https://github.com/htorquilho/github-readme-stats)
 
-
+<hr>
 
 
 
