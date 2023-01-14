@@ -16,3 +16,20 @@ Atualmente estudo na Digital College, em Fortaleza/CE, e em breve estarei conclu
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Zorin](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)
+
+<hr>
+
+![Htorquilho's GitHub stats](https://github-readme-stats.vercel.app/api?username=htorquilho&show_icons=true&theme=radical)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
+
