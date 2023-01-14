@@ -25,7 +25,7 @@ Atualmente estudo na Digital College, em Fortaleza/CE, e em breve estarei conclu
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=htorquilho&repo=github-readme-stats)](https://github.com/htorquilho/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htorquilho&layout=compact)](https://github.com/htorquilho/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htorquilho&layout=demo)](https://github.com/htorquilho/github-readme-stats)
 
 <hr>
 
