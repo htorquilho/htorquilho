@@ -1,13 +1,13 @@
-<h1>Olá! Bem vindo ao meu perfil no Github🖐️</h1>
-<h1>Meu nome é Henrique Torquilho</h1>
+<h1>Olá! Bem vindo ao meu perfil no Github 🖐️</h1>
+<h1>Meu nome é Henrique Torquilho 🧑‍💻</h1>
 <br>
 
-⚖️ Sou advogado, especialista em Direito da Tecnologia da Informação, que colocou o Direito de lado e resolveu seguir a carreira de Desenvolvedor Fullstack.
+⚖️ Sou advogado, especialista em Direito da Tecnologia da Informação, que agora segue a carreira de Desenvolvedor Fullstack.
 Atualmente estudo na Digital College, em Fortaleza/CE, e em breve estarei concluindo o curso. 🧑‍💻
 
 <br>
 
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white) 
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) <a href="https://www.linkedin.com/in/henrique-torquilho-2b450615a/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="mailto:henriquetorquilho@protonmail.com" target="_blank"> ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)</a> 
 
 <br>
 
