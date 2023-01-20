@@ -3,6 +3,7 @@
 <br>
 
 ⚖️ Sou advogado, especialista em Direito da Tecnologia da Informação, que agora segue a carreira de Desenvolvedor FullStack.   
+<br>
 Atualmente estudo na Digital College, em Fortaleza/CE, e em breve estarei concluindo o curso. 🧑‍💻
 
 <br>
