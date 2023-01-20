@@ -23,3 +23,10 @@ Atualmente estudo na Digital College, em Fortaleza/CE, e em breve estarei conclu
 
 <hr>
 <br>
+<div>
+<a href="https://github.com/htorquilho">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=htorquilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<br>
+<br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htorquilho&layout=compact&langs_count=7&theme=dracula"/>
+</div>
