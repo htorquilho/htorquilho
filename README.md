@@ -1,10 +1,10 @@
-<h1>Olá! Bem vindo ao meu perfil no Github 🖐️</h1>
-<h1>Meu nome é Henrique Torquilho 🧑‍💻</h1>
+<h1> Bem vindo ao meu perfil no Github </h1>
+<h1>Olá! Meu nome é Henrique Torquilho 🖐🧑‍💻</h1>
 <br>
 
-⚖️ Sou advogado, especialista em Direito da Tecnologia da Informação, que agora segue a carreira de Desenvolvedor FullStack.   
+⚖️ Sou advogado, especialista em Direito da Tecnologia da Informação e Desenvolvedor FullStack.   
 <br>
-Atualmente estudo na Digital College, em Fortaleza/CE, e em breve estarei concluindo o curso. 🧑‍💻
+E atualmente estou cursando Engenharia de Software. 🧑‍💻
 
 <br>
 
