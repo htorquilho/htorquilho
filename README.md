@@ -2,8 +2,7 @@
 <h1>Meu nome é Henrique Torquilho 🧑‍💻</h1>
 <br>
 
-⚖️ Sou advogado - especialista em Direito da Tecnologia da Informação - Desenvolvedor FullStack  
-E atualmente estou cursando Engenharia de Software. 🧑‍💻
+⚖️ Sou advogado - especialista em Direito da Tecnologia da Informação - Desenvolvedor FullStack e atualmente estou cursando Engenharia de Software. 🧑‍💻
 
 <br>
 
