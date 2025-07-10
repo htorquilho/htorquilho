@@ -4,11 +4,12 @@
 <h3>⚖️ Sou advogado - especialista em Direito da Tecnologia da Informação<br>
 Desenvolvedor FullStack e atualmente estou cursando Engenharia de Software. 🧑‍💻</h3> 
 
-<a href="https://www.linkedin.com/in/henrique-torquilho-2b450615a/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-<a href="mailto:henriquetorquilho@protonmail.com" target="_blank">![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)</a>
 <a href="https://htorquilho.github.io/" target="_blank">![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=githubpages&logoColor=white)</a>
-                      
+<a href="https://www.linkedin.com/in/henrique-torquilho-2b450615a/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:henriquetorquilho@protonmail.com" target="_blank">![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)</a>
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+                  
 <h2>Tecnologias que já utilizei:</h2>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="30"/> <img 
