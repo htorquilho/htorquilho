@@ -1,8 +1,7 @@
 <h2>Bem vindo ao meu perfil no Github!<br>
   Meu nome é Henrique Torquilho 🧑‍💻</h2> 
-<br>
 
-⚖️ <h4>Sou advogado - especialista em Direito da Tecnologia da Informação<br>
+<h4>⚖️ Sou advogado - especialista em Direito da Tecnologia da Informação<br>
 Desenvolvedor FullStack e atualmente estou cursando Engenharia de Software. 🧑‍💻</h4> 
 
 <a href="https://www.linkedin.com/in/henrique-torquilho-2b450615a/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
