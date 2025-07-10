@@ -7,7 +7,7 @@ Desenvolvedor FullStack e atualmente estou cursando Engenharia de Software. 🧑
 <a href="https://htorquilho.github.io/" target="_blank">![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=githubpages&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/henrique-torquilho-2b450615a/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:henriquetorquilho@protonmail.com" target="_blank">![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)</a>
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+<a href="https://wa.me/5585991387148" target="_blank">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 
                   
 <h2>Tecnologias que já utilizei:</h2>
